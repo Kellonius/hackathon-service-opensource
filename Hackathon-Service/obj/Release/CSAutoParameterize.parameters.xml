@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="HackathonEntities-Web.config Connection String" description="HackathonEntities Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/HackathonDataModel.csdl|res://*/HackathonDataModel.ssdl|res://*/HackathonDataModel.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=redhathackathon.database.windows.net;initial catalog=hackathon;persist security info=True;user id=redhat;password=23pinkJeans;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\rbeasley\\source\\repos\\Hackathon\\hackathon-service\\Hackathon-Service\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='HackathonEntities']/@connectionString" />
+  </parameter>
+</parameters>

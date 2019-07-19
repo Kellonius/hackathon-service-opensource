@@ -1,0 +1,12 @@
+C:\Users\rbeasley\source\repos\Hackathon\Hackathon-Service\Hackathon-DataAccess\bin\Debug\Hackathon-DataAccess.dll.config
+C:\Users\rbeasley\source\repos\Hackathon\Hackathon-Service\Hackathon-DataAccess\bin\Debug\Hackathon-DataAccess.dll
+C:\Users\rbeasley\source\repos\Hackathon\Hackathon-Service\Hackathon-DataAccess\bin\Debug\Hackathon-DataAccess.pdb
+C:\Users\rbeasley\source\repos\Hackathon\Hackathon-Service\Hackathon-DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\rbeasley\source\repos\Hackathon\Hackathon-Service\Hackathon-DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rbeasley\source\repos\Hackathon\Hackathon-Service\Hackathon-DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\rbeasley\source\repos\Hackathon\Hackathon-Service\Hackathon-DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rbeasley\source\repos\Hackathon\Hackathon-Service\Hackathon-DataAccess\obj\Debug\Hackathon-DataAccess.csprojAssemblyReference.cache
+C:\Users\rbeasley\source\repos\Hackathon\Hackathon-Service\Hackathon-DataAccess\obj\Debug\Hackathon-DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\rbeasley\source\repos\Hackathon\Hackathon-Service\Hackathon-DataAccess\obj\Debug\Hackathon-DataAccess.csproj.CopyComplete
+C:\Users\rbeasley\source\repos\Hackathon\Hackathon-Service\Hackathon-DataAccess\obj\Debug\Hackathon-DataAccess.dll
+C:\Users\rbeasley\source\repos\Hackathon\Hackathon-Service\Hackathon-DataAccess\obj\Debug\Hackathon-DataAccess.pdb
